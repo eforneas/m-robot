@@ -1,0 +1,8 @@
+// Bill Of Materials
+4 x 12 Vdc motors 36 rpm reduced
+4 x 140 mm wheels
+1 x 2.5 m PVC 40 mm diameter
+4 x PVC 90º code 40 mm diameter
+3 x PVC T union 40 mm diamter
+1 x Arduino uno
+1 x HC-05 Bluetooth modules
